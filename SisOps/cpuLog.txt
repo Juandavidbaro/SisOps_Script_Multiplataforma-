@@ -1,0 +1,11 @@
+
+audiodg: 9452.53125 segundos
+OneDrive: 3765.078125 segundos
+java: 2180.28125 segundos
+nbcode64: 2111.640625 segundos
+Code: 1727.578125 segundos
+explorer: 1058.390625 segundos
+WhatsApp: 517.21875 segundos
+msedge: 206.78125 segundos
+svchost: 68.71875 segundos
+msedgewebview2: 64.78125 segundos
